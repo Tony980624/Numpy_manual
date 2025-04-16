@@ -5,8 +5,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 ````
 
-# 创建一个list
 
 ````
+# 创建一个list
 np.array([1,2,3])
+# 二维
+np.array([1,2,3],[4,5,6])
 ````
